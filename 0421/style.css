@@ -1,0 +1,36 @@
+
+
+body{
+	font-size:48px;
+	margin:0;
+	height:100vh;
+	display:flex;
+	align-items:center; 
+	justify-content:center;
+}
+
+.but {
+	
+	width:90vw;
+	height:80px;
+	font-size:xx-large;
+	
+}
+
+.but_half{
+	width:30vw;
+	height:80px;
+	font-size:xx-large;
+}
+
+input[type="text"]{
+	font-size:40px;
+	border-width:10px;
+}
+
+
+input[type="password"]{
+	font-size:40px;
+	border-width:10px;
+}
+
